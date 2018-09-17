@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/collibri.iml" filepath="$PROJECT_DIR$/.idea/collibri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collibri_main.iml" filepath="$PROJECT_DIR$/.idea/modules/collibri_main.iml" group="collibri" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collibri_test.iml" filepath="$PROJECT_DIR$/.idea/modules/collibri_test.iml" group="collibri" />
+    </modules>
+  </component>
+</project>
